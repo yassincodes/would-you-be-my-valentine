@@ -268,7 +268,7 @@ const Valentine = () => {
             <>
               <h1 className="title">💕</h1>
               <h2 className="question">Will you be my Valentine?</h2>
-              <div className="emoji">💑</div>
+              <div className="emoji">❤️</div>
 
               <div className="buttons-container">
                 <button className="btn btn-yes" onClick={handleYesClick}>
